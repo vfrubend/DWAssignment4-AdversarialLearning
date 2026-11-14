@@ -25,4 +25,4 @@ pip install -r requirements.txt
 ```
 
 5. Open the DWAssignment4-AdversarialLearning folder in your editor of choice
-7. Run the notebook named Progressive Duplicate Detection.ipynb using the .venv as your kernel
+7. Run the notebook named AD.ipynb using the .venv as your kernel
